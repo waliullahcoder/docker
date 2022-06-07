@@ -1,0 +1,25 @@
+
+
+1. docker download
+2. install docker
+3. Download the Linux kernel update package
+https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+
+4. open cmd
+->docker version
+->docker ps
+->docker pull ubuntu
+->docker images
+->docker ps
+->docker pull centos
+->docker ps
+->docker pull nginx
+Container create 1: Go docker images click "ubuntu" run button for creation to container1
+Go to container and click 1st container terminal bin/bash
+->ls
+->pwd
+->cd /
+->ls
+->exit
+
+Container create 2: Go docker images click "centos" run button for creation to container2
